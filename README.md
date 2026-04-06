@@ -9,7 +9,7 @@
   <a href="https://github.com/Misael-133">
     <img src="https://komarev.com/ghpvc/?username=Misael-133&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=flat" alt="contador de visualizações" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/misael-gon%C3%A7alves-86b0551a1/">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
