@@ -2,101 +2,92 @@
 <h1 align="center">Olá! Eu sou o Misael Gonçalves 👋</h1>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas • Transição de carreira para TI • Python • SQL • Power BI
+  Transformando dados, lógica e experiência prática em soluções reais com tecnologia 🚀
 </p>
 
 <p align="center">
   <a href="https://github.com/Misael-133">
-    <img src="https://komarev.com/ghpvc/?username=Misael-133&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=flat" alt="contador de visualizações" />
+    <img src="https://komarev.com/ghpvc/?username=Misael-133&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=flat" />
   </a>
-  <a href="https://www.linkedin.com/in/misael-gon%C3%A7alves-86b0551a1/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat&logo=linkedin" alt="LinkedIn" />
-  </a>
+</p>
+
+<p align="center">
+  <a href="SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/Misael-133"><img src="https://img.shields.io/badge/GitHub-Repositórios-black?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou em transição de carreira para a área de **Tecnologia**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** em transição de carreira para a área de **Tecnologia e Dados**.
 
-Minha base profissional vem da indústria, com experiência em **processos, melhoria contínua, análise, resolução de problemas e rotina operacional**, e hoje direciono essa bagagem para o desenvolvimento de soluções com foco em:
+Tenho base profissional na indústria, com experiência em:
+- Processos
+- Melhoria contínua
+- Análise e resolução de problemas
 
-- **Python**
-- **SQL / Banco de Dados**
-- **Power BI**
-- **Lógica de programação**
-- **Automação e análise de dados**
+Hoje direciono essa bagagem para o desenvolvimento de soluções com foco em **dados, automação e lógica de programação**.
 
-Gosto de criar projetos que resolvem problemas reais e mostrem minha evolução prática como futuro profissional de TI.
+---
+
+## 📊 Atualmente
+
+- Estudando Python aplicado a problemas reais  
+- Desenvolvendo projetos práticos para portfólio  
+- Aprofundando conhecimentos em SQL e banco de dados  
+- Evoluindo em análise de dados com Power BI  
 
 ---
 
 ## 🛠️ Tecnologias e ferramentas
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</p>
+🐍 Python • 🗄️ SQL • 📊 Power BI • 📈 Excel • 🔧 Git • 💻 VS Code
 
 ---
 
 ## 📌 Projetos em destaque
 
-### 🔹 [Desafio-Python](https://github.com/Misael-133/Desafio-Python)
-Repositório com exercícios práticos em Python, cobrindo lógica de programação, estruturas condicionais, loops, cálculos e simulações de problemas reais.
+### 🔹 Desafio Python
+Projeto com exercícios práticos focados em lógica de programação e resolução de problemas reais.
 
-**Destaques:**
-- Entrada e saída de dados
-- `if/else`, `for`, `while`
-- Cálculo de corrida e métricas como **R$/km**
-- Sistema com menu interativo
+### 🔹 Gerenciador de Contatos
+Sistema em Python para organização e manipulação de dados.
 
-### 🔹 [Gerenciador_Contatos_python](https://github.com/Misael-133/Gerenciador_Contatos_python)
-Projeto em Python voltado para organização e manipulação de contatos, reforçando lógica, estruturação de dados e fluxo de navegação.
+### 🔹 Sistema de Pedido de Pizza
+Simulação de sistema de pedidos com regras de negócio.
 
-### 🔹 [Sistema_Pedido_Pizza](https://github.com/Misael-133/Sistema_Pedido_Pizza)
-Sistema de pedidos desenvolvido em Python com foco em lógica de negócio, entrada de dados e organização de fluxo.
+### 🔹 Sistema de Vendas de Madeira
+Projeto com foco em cálculos e fluxo de vendas.
 
-### 🔹 [Sistema-de-Vendas-de-Madeira](https://github.com/Misael-133/Sistema-de-Vendas-de-Madeira)
-Projeto prático com foco em regras de negócio, cálculos e estruturação de processo de venda.
-
-### 🔹 [calculadora-plano-python](https://github.com/Misael-133/calculadora-plano-python)
-Projeto em Python voltado para cálculos e apoio à tomada de decisão, reforçando lógica aplicada.
+### 🔹 Calculadora de Plano
+Ferramenta para apoio à tomada de decisão com base em cálculos.
 
 ---
 
-## 📈 Em evolução
+## 📈 Estatísticas
 
-Atualmente estou aprofundando meus estudos em:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Misael-133&show_icons=true&theme=dark)
 
-- Python aplicado a problemas reais
-- APIs com Python
-- Banco de dados e SQL
-- Power BI e análise de dados
-- Desenvolvimento de projetos para portfólio
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Misael-133&layout=compact&theme=dark)
 
 ---
 
 ## 🎯 Objetivo
 
-Busco uma oportunidade de **estágio ou posição júnior em TI / Dados**, onde eu possa aplicar minha capacidade analítica, disciplina, aprendizado rápido e evolução constante para gerar resultado real.
+Busco oportunidade de estágio ou posição júnior em **TI / Dados**, onde eu possa aplicar minha capacidade analítica, disciplina e evolução constante para gerar resultados reais.
 
 ---
 
 ## 📫 Contato
 
-- **GitHub:** https://github.com/Misael-133
-- **LinkedIn:** https://www.linkedin.com/in/misael-gon%C3%A7alves-86b0551a1/
-- **E-mail:** misaelgama@gmail.com
+- GitHub: https://github.com/Misael-133
+- LinkedIn: SEU_LINKEDIN
+- E-mail: SEU_EMAIL
 
 ---
 
-## ⚡ Frase que representa meu momento
+## ⚡ Mentalidade
 
-> Transformando experiência prática, disciplina e vontade de evoluir em soluções reais com tecnologia.
-
+> Evolução constante, prática diária e foco em resolver problemas reais com tecnologia.
+```
