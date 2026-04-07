@@ -67,6 +67,9 @@ Projeto prático com foco em regras de negócio, cálculos e estruturação de p
 ### 🔹 [calculadora-plano-python](https://github.com/Misael-133/calculadora-plano-python)
 Projeto em Python voltado para cálculos e apoio à tomada de decisão, reforçando lógica aplicada.
 
+### 🔹[Sistema de Ordem de Serviço (Banco de Dados SQL)]https://github.com/Misael-133/Sistema-de-Ordem-de-Servi-o-Banco-de-Dados-SQL-
+Sistema de banco de dados relacional para gerenciamento de ordens de serviço, desenvolvido em SQL, com modelagem completa, relacionamentos entre tabelas e consultas utilizando JOIN, GROUP BY e SUM.
+
 ---
 
 ## 📈 Em evolução
