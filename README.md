@@ -55,6 +55,9 @@ Repositório com exercícios práticos em Python, cobrindo lógica de programaç
 - Cálculo de corrida e métricas como **R$/km**
 - Sistema com menu interativo
 
+### 🔹[Sistema de Ordem de Serviço (Banco de Dados SQL)](https://github.com/Misael-133/Sistema-de-Ordem-de-Servi-o-Banco-de-Dados-SQL-)
+Sistema de banco de dados relacional para gerenciamento de ordens de serviço, desenvolvido em SQL, com modelagem completa, relacionamentos entre tabelas e consultas utilizando JOIN, GROUP BY e SUM.
+
 ### 🔹 [Gerenciador_Contatos_python](https://github.com/Misael-133/Gerenciador_Contatos_python)
 Projeto em Python voltado para organização e manipulação de contatos, reforçando lógica, estruturação de dados e fluxo de navegação.
 
@@ -66,9 +69,6 @@ Projeto prático com foco em regras de negócio, cálculos e estruturação de p
 
 ### 🔹 [calculadora-plano-python](https://github.com/Misael-133/calculadora-plano-python)
 Projeto em Python voltado para cálculos e apoio à tomada de decisão, reforçando lógica aplicada.
-
-### 🔹[Sistema de Ordem de Serviço (Banco de Dados SQL)](https://github.com/Misael-133/Sistema-de-Ordem-de-Servi-o-Banco-de-Dados-SQL-)
-Sistema de banco de dados relacional para gerenciamento de ordens de serviço, desenvolvido em SQL, com modelagem completa, relacionamentos entre tabelas e consultas utilizando JOIN, GROUP BY e SUM.
 
 ---
 
