@@ -61,8 +61,8 @@ Sistema de banco de dados relacional para gerenciamento de ordens de serviço, d
 ### 🔹 [Gerenciador_Contatos_python](https://github.com/Misael-133/Gerenciador_Contatos_python)
 Projeto em Python voltado para organização e manipulação de contatos, reforçando lógica, estruturação de dados e fluxo de navegação.
 
-### 🔹 [Sistema_Pedido_Pizza](https://github.com/Misael-133/Sistema_Pedido_Pizza)
-Sistema de pedidos desenvolvido em Python com foco em lógica de negócio, entrada de dados e organização de fluxo.
+### 🔹 [python-corridas-sqlite](https://github.com/Misael-133/python-corridas-sqlite)
+Projeto em Python com integração a banco de dados SQLite para registro e análise de corridas, aplicando persistência de dados, consultas SQL e operações de agregação (SUM e AVG), com foco em desenvolvimento backend e estruturação de dados.
 
 ### 🔹 [Sistema-de-Vendas-de-Madeira](https://github.com/Misael-133/Sistema-de-Vendas-de-Madeira)
 Projeto prático com foco em regras de negócio, cálculos e estruturação de processo de venda.
