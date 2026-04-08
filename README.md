@@ -58,11 +58,11 @@ Repositório com exercícios práticos em Python, cobrindo lógica de programaç
 ### 🔹[Sistema de Ordem de Serviço (Banco de Dados SQL)](https://github.com/Misael-133/Sistema-de-Ordem-de-Servi-o-Banco-de-Dados-SQL-)
 Sistema de banco de dados relacional para gerenciamento de ordens de serviço, desenvolvido em SQL, com modelagem completa, relacionamentos entre tabelas e consultas utilizando JOIN, GROUP BY e SUM.
 
-### 🔹 [Gerenciador_Contatos_python](https://github.com/Misael-133/Gerenciador_Contatos_python)
-Projeto em Python voltado para organização e manipulação de contatos, reforçando lógica, estruturação de dados e fluxo de navegação.
-
 ### 🔹 [python-corridas-sqlite](https://github.com/Misael-133/python-corridas-sqlite)
 Projeto em Python com integração a banco de dados SQLite para registro e análise de corridas, aplicando persistência de dados, consultas SQL e operações de agregação (SUM e AVG), com foco em desenvolvimento backend e estruturação de dados.
+
+### 🔹 [Gerenciador_Contatos_python](https://github.com/Misael-133/Gerenciador_Contatos_python)
+Projeto em Python voltado para organização e manipulação de contatos, reforçando lógica, estruturação de dados e fluxo de navegação.
 
 ### 🔹 [Sistema-de-Vendas-de-Madeira](https://github.com/Misael-133/Sistema-de-Vendas-de-Madeira)
 Projeto prático com foco em regras de negócio, cálculos e estruturação de processo de venda.
