@@ -8,7 +8,7 @@
   <a href="https://github.com/Misael-133">
     <img src="https://komarev.com/ghpvc/?username=Misael-133&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=flat" alt="contador de visualizações" />
   </a>
-  <a href="https://www.linkedin.com/in/misael-gon%C3%A7alves-86b0551a1/">
+  <a href="https://www.linkedin.com/in/misael-gon%C3%A7alves/">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
@@ -93,7 +93,7 @@ Busco uma oportunidade de **estágio ou posição júnior em TI / Dados**, onde 
 ## 📫 Contato
 
 - **GitHub:** https://github.com/Misael-133
-- **LinkedIn:** https://www.linkedin.com/in/misael-gon%C3%A7alves-86b0551a1/
+- **LinkedIn:** https://www.linkedin.com/in/misael-gon%C3%A7alves/
 - **E-mail:** misaelgama@gmail.com
 
 ---
