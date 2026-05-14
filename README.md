@@ -73,7 +73,7 @@ Projeto em Python com integração a banco de dados SQLite para registro e anál
 
 ---
 
-### 🔹 [api-gerenciamento-chamados](COLE_SEU_LINK_AQUI)
+### 🔹 [api-gerenciamento-chamados](https://github.com/Misael-133/api-gerenciamento-chamados)
 
 API REST desenvolvida com Flask e SQLite simulando um sistema corporativo de gerenciamento de chamados técnicos.
 
